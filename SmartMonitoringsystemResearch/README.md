@@ -1,7 +1,7 @@
 # Behavioural Robustness as an Evaluation Criterion for Temporal Disease Risk Models
 
-**IEEE JBHI — Manuscript Under Review**  
-Mihit Nanda† and Hannah Nagpall‡
+**IEEE JBHI — Manuscript 
+Mihit Nanda(1) and Hannah Nagpall(2)
 
 ---
 
