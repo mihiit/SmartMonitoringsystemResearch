@@ -103,21 +103,6 @@ This runs:
 
 This study uses exclusively publicly available, de-identified datasets. All data processing followed FAIR principles. The authors declare no conflict of interest.
 
----
-
-## Citation
-
-```bibtex
-@article{nanda2024behavioural,
-  title={Behavioural Robustness as an Evaluation Criterion for Temporal Disease Risk Models under Lifestyle Intervention},
-  author={Nanda, Mihit and Nagpall, Hannah},
-  journal={IEEE Journal of Biomedical and Health Informatics},
-  year={2024},
-  note={Under Review}
-}
-```
-
----
 
 ## Code Repository
 
