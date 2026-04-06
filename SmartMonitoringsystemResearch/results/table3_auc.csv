@@ -1,0 +1,9 @@
+Model,Pima,NHANES,UCI,Diabetes-130
+Logistic Regression,0.681,0.651,0.756,0.582
+XGBoost,0.731,0.702,0.789,0.601
+LSTM (standard),0.702,0.671,0.840,0.612
+RETAIN*,0.718,0.680,0.823,0.608
+Med-BERT*,0.726,0.685,—,0.634
+Proposed: LSTM,0.702,0.671,0.840,0.612
+Proposed: Trans (No P),0.743,0.695,0.897,0.613
+Proposed: Trans (Pers),0.755,0.677,0.844,0.612
